@@ -2,3 +2,4 @@
 main
 tests
 *.o
+.DS_Store
