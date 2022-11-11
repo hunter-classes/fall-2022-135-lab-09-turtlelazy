@@ -7,7 +7,7 @@
 * GitHub username: turtlelazy
 
 * Notes:
-For #+begin_src c++ Coord3D *fartherFromOrigin(Coord3D *p1, Coord3D *p2);#+end_src, when length of p1 is equal to length of p2, p1 is returned.
+For "Coord3D *fartherFromOrigin(Coord3D *p1, Coord3D *p2);", when length of p1 is equal to length of p2, p1 is returned.
 
 
 * General instructions:
